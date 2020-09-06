@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+	
+	
+	
+	<style>
+
+
+	</style>
+	
+	</head>
+	<body style=" background-color: black;">
+	
+	
+	<br><br>
+	<button style= " position: absolute;top: 25px;   left: 900px;border-radius:5px; background: black; width: 60px; height: 50px; border: 1px solid red;">
+			<hr/ style="width: 50%; border-color: red; ">	
+			<hr/ style="width: 50%; border-color: red; ">	
+			<hr/ style="width: 50%; border-color: red; ">
+	</button>
+	 
+	
+	
+	
+	</body>
+	
+	
+	
+	</html>
+	
